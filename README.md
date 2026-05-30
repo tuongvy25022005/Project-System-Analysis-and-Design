@@ -25,3 +25,5 @@
 - Xây dựng sơ đồ chỗ ngồi trực quan để khách hàng chọn vị trí ghế chính xác.
 - Tích hợp thêm các cổng thanh toán đa dạng như ZaloPay, PayPal, thẻ tín dụng.
 - Tăng cường bảo mật bằng xác thực 2 lớp (2FA) và ứng dụng công nghệ AI/ML để tự động gợi ý sự kiện theo sở thích người dùng.
+### Tác giả 
+**Hồ Vũ Tường Vy**
